@@ -1,0 +1,97 @@
+[
+    
+   
+   
+    {
+      "name": "Chocolate Lava Cake",
+      "recipe": "Dark chocolate, butter, sugar, eggs, flour, vanilla extract",
+      "image": "https://example.com/images/chocolate_lava_cake.jpg",
+      "category": "Dessert",
+      "price": 6.99
+    },
+    {
+      "name": "Caprese Salad",
+      "recipe": "Tomatoes, fresh mozzarella, basil, balsamic vinegar, olive oil",
+      "image": "https://example.com/images/caprese_salad.jpg",
+      "category": "Salad",
+      "price": 10.25
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "recipe": "BBQ sauce, grilled chicken, mozzarella cheese, red onions, cilantro",
+      "image": "https://example.com/images/bbq_chicken_pizza.jpg",
+      "category": "Pizza",
+      "price": 15.50
+    },
+    {
+      "name": "Minestrone Soup",
+      "recipe": "Tomatoes, zucchini, carrots, celery, beans, pasta, vegetable broth",
+      "image": "https://example.com/images/minestrone_soup.jpg",
+      "category": "Soup",
+      "price": 7.75
+    },
+    {
+      "name": "Cheesecake",
+      "recipe": "Cream cheese, sugar, eggs, vanilla, graham cracker crust, sour cream",
+      "image": "https://example.com/images/cheesecake.jpg",
+      "category": "Dessert",
+      "price": 8.50
+    },
+    {
+      "name": "Taco Salad",
+      "recipe": "Ground beef, lettuce, tomatoes, cheddar cheese, tortilla chips, sour cream",
+      "image": "https://example.com/images/taco_salad.jpg",
+      "category": "Salad",
+      "price": 11.00
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "recipe": "Tomato sauce, mozzarella, Parmesan, Gorgonzola, ricotta, basil",
+      "image": "https://example.com/images/four_cheese_pizza.jpg",
+      "category": "Pizza",
+      "price": 16.25
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "recipe": "Chicken, egg noodles, carrots, celery, onions, chicken broth",
+      "image": "https://example.com/images/chicken_noodle_soup.jpg",
+      "category": "Soup",
+      "price": 6.25
+    },
+    {
+      "name": "Apple Pie",
+      "recipe": "Apples, sugar, cinnamon, flour, butter, pie crust",
+      "image": "https://example.com/images/apple_pie.jpg",
+      "category": "Dessert",
+      "price": 5.99
+    },
+    {
+      "name": "Spinach and Strawberry Salad",
+      "recipe": "Fresh spinach, strawberries, almonds, goat cheese, balsamic dressing",
+      "image": "https://example.com/images/spinach_strawberry_salad.jpg",
+      "category": "Salad",
+      "price": 9.25
+    },
+    {
+      "name": "Veggie Pizza",
+      "recipe": "Tomato sauce, mozzarella, bell peppers, onions, olives, mushrooms",
+      "image": "https://example.com/images/veggie_pizza.jpg",
+      "category": "Pizza",
+      "price": 13.75
+    },
+    {
+      "name": "Clam Chowder",
+      "recipe": "Clams, potatoes, celery, onions, cream, bacon",
+      "image": "https://example.com/images/clam_chowder.jpg",
+      "category": "Soup",
+      "price": 8.50
+    },
+    {
+      "name": "Brownies",
+      "recipe": "Dark chocolate, butter, sugar, eggs, flour, cocoa powder",
+      "image": "https://example.com/images/brownies.jpg",
+      "category": "Dessert",
+      "price": 4.99
+    }
+  ]
+  
